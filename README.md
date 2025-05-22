@@ -1,4 +1,4 @@
-# CodeQL
+# [блог](http://koloskov.kz/), [@koloskof](https://twitter.com/koloskof), [linkedIn](https://ru.linkedin.com/in/koloskof), [facebook](https://www.facebook.com/koloskov.kz)
 
 This open source repository contains the standard CodeQL libraries and queries that power [GitHub Advanced Security](https://github.com/features/security/code) and the other application security products that [GitHub](https://github.com/features/security/) makes available to its customers worldwide.
 
